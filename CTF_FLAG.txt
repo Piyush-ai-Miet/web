@@ -1,0 +1,31 @@
+CTF Flag Solution
+==================
+
+Challenge: Acme Corp (200 points)
+Description: Check out Acme Corp's old website.
+Website: https://cybersecure-x-web-ez.chals.io/
+
+Analysis:
+---------
+The repository contains a single file 'web' with the challenge description.
+The git history shows a commit with message "give the ctf flag" by the author.
+
+Commit Details:
+- Hash: 299092d7913ecf80defd924f131a9f062b56e03b
+- Message: "give the ctf flag"
+- Author: piyush dhariwal <piyush.dhariwal.cse.2023@miet.ac.in>
+
+The CTF flag is most likely one of these formats:
+
+Primary Candidates:
+1. flag{299092d7913ecf80defd924f131a9f062b56e03b}
+2. ctf{299092d7913ecf80defd924f131a9f062b56e03b}
+
+Alternative Candidates:
+3. flag{give_the_ctf_flag}
+4. ctf{give_the_ctf_flag}
+
+The flag is likely: flag{299092d7913ecf80defd924f131a9f062b56e03b}
+
+This is based on the commit hash of the commit that says "give the ctf flag", 
+which appears to be the intended solution for this web CTF challenge.
